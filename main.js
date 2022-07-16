@@ -14,4 +14,7 @@
 // import "./js/objects.js";
 // import "./js/destructuring.js";
 // import "./js/function.js";
-import "./js/closures.js";
+// import "./js/closures.js";
+// import "./js/Constructors.js";
+// import "./js/clasess.js";
+import "./js/DOM.js";
